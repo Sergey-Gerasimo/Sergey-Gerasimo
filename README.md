@@ -25,28 +25,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-1. **[AI Async API](https://github.com/yourusername/ai-async-api)**  
-   High-performance ML API with FastAPI and RabbitMQ workflow  
-   `FastAPI` `RabbitMQ` `Docker` `TensorFlow`  
-   • Implemented async prediction pipelines  
-   • Scaled with Docker Compose and Celery workers
-
-2. **[E-commerce Backend](https://github.com/yourusername/ecom-backend)**  
-   Distributed microservices architecture  
-   `FastAPI` `PostgreSQL` `Redis` `JWT`  
-   • Order processing with idempotent API design  
-   • Redis caching for high-traffic endpoints
-
-3. **[Notification Service](https://github.com/yourusername/notify-service)**  
-   Real-time messaging system with WebSockets  
-   `WebSockets` `Asyncio` `RabbitMQ`  
-   • 10k+ concurrent connections handling  
-   • Message priority queues with RabbitMQ
-
----
-
 ### 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sergey-Gerasimo&theme=dark&hide_border=true)](https://git.io/streak-stats)
