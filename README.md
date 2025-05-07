@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Gerasimov Sergey
 
 **`Python Backend Developer (FastAPI • RabbitMQ • Docker)`**
 
