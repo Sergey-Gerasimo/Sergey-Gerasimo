@@ -51,9 +51,9 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sergey-Gerasimo&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide=html,css&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Gerasimo&hide=html,css&layout=compact&theme=vision-friendly-dark)
 
 ---
 
